@@ -3,7 +3,7 @@
 <h2>👨‍💻 Network Administration Projects:</h2>
 
 
-- [Network Basics](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Network Basics](https://github.com/RubenMathy/rubenITengineer/releases/tag/LabNetworkBasic)
 
 <h2>📺 Popular YouTube Videos</h2>
 
